@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"sophisticatedstorage:netherite_shulker_box"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:diamond_shulker_box"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:portal_scroll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:dormant_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:twinbound_feather"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
